@@ -24,7 +24,7 @@ https://chaatifyy.onrender.com/
 # Real Time Chatting
 ![Screenshot (179)](https://github.com/gouravmajumder2102/Realtime-Chatify-App/assets/87554983/e350a3cb-8b9c-420b-9c19-97aacec16da9)
 
-#Group chats
+# Group chats
 ![Screenshot (181)](https://github.com/gouravmajumder2102/Realtime-Chatify-App/assets/87554983/34fd9225-8e65-400a-aa71-44b60627e7c6)
 
 # View Profile
